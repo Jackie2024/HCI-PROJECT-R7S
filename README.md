@@ -6,7 +6,7 @@ Your task is to **create a logo and a promotional website** that represent the n
 
 Shout out to all of my team members who have cooperated to make this project done in **10 Days**
 you can access the web through: 
-https://jackie2024.github.io/HCI-PROJECT-R7S.github.io/index.html
+https://jackie2024.github.io/HCI-PROJECT-R7S.github.io/
 
 ## Requirements
 
