@@ -8,8 +8,9 @@
 
 Your task is to **create a logo and a promotional website** that represent the new upcoming updates. You also need to consider the design for the website so the user **can pre-order and sneak peek about the new update** of the game.
 
-**shout out to my teammates who've helped to make this project happen!"**
+**Shout out to my teammates who've helped to make this project happen!**
 You can access the project through: https://jackie2024.github.io/HCI-PROJECT-R7S.github.io/
+
 ## Requirements
 
 The requirements for **Rainbow Seven Siege's website** are described as follow :
@@ -77,10 +78,10 @@ The requirements for **Rainbow Seven Siege's website** are described as follow :
 
 ## Team members
 
-**- Herman (2201749002)
-- Akmal (2201754721)**
-**- Jackie Leonardy (2201757093)
-- Akmal Wiraprana (2201836021)**
+- **Herman (2201749002)**
+- **Akmal (2201754721)**
+- **Jackie Leonardy (2201757093)**
+- **Akmal Wiraprana (2201836021)**
 
 ## Credit & references
 
