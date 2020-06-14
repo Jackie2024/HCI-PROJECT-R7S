@@ -8,7 +8,13 @@
 
 Your task is to **create a logo and a promotional website** that represent the new upcoming updates. You also need to consider the design for the website so the user **can pre-order and sneak peek about the new update** of the game.
 
+<<<<<<< HEAD
 Shout out to all of my team members who have cooperated to make this project done in 10 Days you can access the web through: https://jackie2024.github.io/HCI-PROJECT-R7S.github.io/
+=======
+Shout out to all of my team members who have cooperated to make this project done in **10 Days**
+you can access the web through: 
+https://jackie2024.github.io/HCI-PROJECT-R7S.github.io/
+>>>>>>> 38091844a326073bb64fc67cfd348b34e4743d4d
 
 ## Requirements
 
